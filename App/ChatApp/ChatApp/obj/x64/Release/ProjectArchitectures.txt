@@ -1,0 +1,1 @@
+D:\APP\ChatApp\ChatApp\ChatApp.csproj;x64
